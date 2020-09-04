@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Russian Pierogi",
+    "image": "/images/ruskie.jpg",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, nam et est ornare.",
+    "price": 5,
+    "available": true,
+    "rank": 1
+  },
+  {
+    "id": 2,
+    "name": "Yeast Pierogi",
+    "image": "/images/drozdzowe.jpg",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, nam et est ornare.",
+    "price": 7,
+    "available": true,
+    "rank": 2
+  },
+  {
+    "id": 3,
+    "name": "Spinach Pierogi",
+    "image": "/images/spinac.jpg",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, nam et est ornare.",
+    "price": 8,
+    "available": true,
+    "rank": 1
+  },
+  {
+    "id": 4,
+    "name": "Khinkali",
+    "image": "/images/khinkali.jpg",
+    "desc": "A taste of Georgian! Made of twisted knobs of dough, stuffed with meat and spices. !",
+    "price": 9,
+    "available": true,
+    "rank": 3
+  },
+  {
+    "id": 5,
+    "name": "Plums Pierogi",
+    "image": "/images/pierogi-with-plums.jpg",
+    "desc": "Pierogi lovers we have you covered! That's our special dish!",
+    "price": 8,
+    "available": true,
+    "rank": 3
+  }
+]
